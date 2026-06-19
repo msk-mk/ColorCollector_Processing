@@ -37,9 +37,6 @@
 
 - Processing
 - processing.video
-- Web カメラ
-- PImage
-- PGraphics
 
 ## 体験の流れ
 
